@@ -12,7 +12,7 @@ export default function Home() {
         />
         <div>
           <p className='text-2xl font-extrabold mb-8 text-slate-800 text-center'>
-            Login to soja and start registering visitors
+            Login to Soja-VMS and start registering visitors
           </p>
         </div>
       </div>
