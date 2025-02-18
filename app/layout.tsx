@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next auth app",
-  description: "Next auth app by nextj and mongodb ",
+  title: "Soja-VMS",
+  description: "Powered by Smartic Digital ",
 };
 
 export default function RootLayout({
